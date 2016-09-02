@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prova
-permalink: /prova/
+permalink: /prova.html
 ---
 
 GALAXY WORKSHOP on GENOME ANNOTATION
