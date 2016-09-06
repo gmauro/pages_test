@@ -17,7 +17,7 @@ Select '''Create New''' and rename it '''sequence_align''' by clicking on the hi
 
 If the current history is already empty, just rename it.
 
-![New history](/images/create_history.png)
+![New history](/pages_test/images/create_history.png)
 
 
 
@@ -67,7 +67,7 @@ Analyze the FastQC results...
 
 View the **Per base sequence quality**
 
-![QC score](/images/qc_score.png)
+![QC score](/pages_test/images/qc_score.png)
 
 **Trim the first 3 bases at 5' and 3' ends**
 
@@ -78,7 +78,6 @@ is removed too. Unpaired good sequences are kept in a separate file.
 Select the paired-reads files and set the parameter values as follows
 
 ![Trimming](/images/trimm.png)
-{{attachment:trimm.png|alt "Trimming"}}
 
 ----
 
